@@ -1,9 +1,9 @@
-1 hello
+1 Hello
 
-2 how are you?
-3 hello 
+2 How are you?
+3 Hello 
 
 4 I am good.
 
-5 what about you?
+5 What about you?
 
