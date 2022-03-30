@@ -18,4 +18,6 @@ It is used to display or make a copy content of one or more files in the termina
 ##Edge cases:
 
 1- If file entered is not found then it gives file does not exist error.
+
+
 2- -n and -b are 2 options available together then command should give you an error
